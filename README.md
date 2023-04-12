@@ -3,8 +3,8 @@ This is a code to add ,delete and view  employee records. Employee information i
 
 
 ## Requirements
-* VS Code
-* Python
+
+* C
 
 ## Code 
 
