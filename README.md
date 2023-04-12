@@ -4,7 +4,7 @@ This is a code to add ,delete and view  employee records. Employee information i
 
 ## Requirements
 
-* C
+* C Language
 
 ## Code 
 
